@@ -85,6 +85,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Teal;
             this.label2.Location = new System.Drawing.Point(205, 107);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(64, 20);
