@@ -47,9 +47,9 @@
             this.label1.ForeColor = System.Drawing.Color.Teal;
             this.label1.Location = new System.Drawing.Point(288, 38);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 20);
+            this.label1.Size = new System.Drawing.Size(131, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.label1.Text = "Employee M S";
             // 
             // login
             // 
